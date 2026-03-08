@@ -1,0 +1,4114 @@
+{
+  "chunks": [
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 0.0,
+      "end": 5.6000000000000005,
+      "text": " In today's video, we will learn how audio, video and media elements are used in HTML."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 5.6000000000000005,
+      "end": 10.56,
+      "text": " In our very first video, we saw that we can embed videos in HTML."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 10.56,
+      "end": 13.32,
+      "text": " Today I will tell you how the video is auto-played,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 13.32,
+      "end": 15.44,
+      "text": " how to keep a muted video,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 15.44,
+      "end": 19.88,
+      "text": " and how you can enable and disable the video controls."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 19.88,
+      "end": 22.52,
+      "text": " Along with that, we will also see very closely about audio,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 22.52,
+      "end": 25.52,
+      "text": " how media can be shown in an overall page."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 25.52,
+      "end": 28.52,
+      "text": " So do like this video and stay in this video"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 28.52,
+      "end": 32.68,
+      "text": " because the examples I have used for video tags are very amazing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 32.68,
+      "end": 33.96,
+      "text": " Let's go to the video screen."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 33.96,
+      "end": 35.2,
+      "text": " Let's roll the intro."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 35.2,
+      "end": 44.2,
+      "text": " Intro"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 44.2,
+      "end": 47.120000000000005,
+      "text": " Friends, this time I have made a folder named video10."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 47.120000000000005,
+      "end": 51.760000000000005,
+      "text": " I will not waste your time by opening the open with code by right-clicking and shifting."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 51.760000000000005,
+      "end": 53.92,
+      "text": " In fact, I will make it in index.html."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 53.92,
+      "end": 56.879999999999995,
+      "text": " And the topic of today's video is video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 56.88,
+      "end": 62.480000000000004,
+      "text": " How to play a video, how to put a video in an HTML file,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 62.480000000000004,
+      "end": 66.04,
+      "text": " how to put audio, how to put media."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 66.04,
+      "end": 68.56,
+      "text": " So adding a video is very straightforward."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 68.56,
+      "end": 71.96000000000001,
+      "text": " I will copy it here, which is our video tag."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 71.96000000000001,
+      "end": 75.56,
+      "text": " It has an src attribute and it has some other attributes"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 75.56,
+      "end": 77.12,
+      "text": " about which I will discuss with you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 77.12,
+      "end": 80.48,
+      "text": " But first of all, I want to tell you here that video src is equal to"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 80.48,
+      "end": 84.48,
+      "text": " you will write here, so if you have video.mp4, it will play."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 84.48,
+      "end": 85.92,
+      "text": " I have video.mp4."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 85.96000000000001,
+      "end": 88.64,
+      "text": " So let's see here, I have put it here with ctrl."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 88.64,
+      "end": 90.84,
+      "text": " And I will click here and preview it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 90.84,
+      "end": 93.48,
+      "text": " And you can see here that this video has come."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 93.48,
+      "end": 95.76,
+      "text": " Now it is a very big video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 95.76,
+      "end": 96.6,
+      "text": " So what can I do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 96.6,
+      "end": 98.24000000000001,
+      "text": " I can give its width."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 98.24000000000001,
+      "end": 101.84,
+      "text": " So I can say here width is equal to 555 pixels."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 101.84,
+      "end": 105.68,
+      "text": " And as soon as I do 555 pixels, in fact, I don't need to write px."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 105.68,
+      "end": 106.8,
+      "text": " I will only do 555."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 106.8,
+      "end": 109.32000000000001,
+      "text": " Like we don't need to write px in the image."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 109.32000000000001,
+      "end": 111.68,
+      "text": " We don't need to write px here either."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 111.68,
+      "end": 114.36,
+      "text": " So as soon as I did width is equal to 555,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 114.36,
+      "end": 117.52,
+      "text": " in fact, I do one thing, I do height is equal to 555"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 117.52,
+      "end": 118.88,
+      "text": " so that it becomes smaller."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 118.88,
+      "end": 120.12,
+      "text": " In fact, I make it smaller."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 120.12,
+      "end": 121.64,
+      "text": " I make it 255."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 121.64,
+      "end": 123.4,
+      "text": " And you see, it came here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 123.4,
+      "end": 125.16,
+      "text": " Now I play it because I have clicked ctrl."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 125.16,
+      "end": 126.24,
+      "text": " I can play it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 126.24,
+      "end": 128.28,
+      "text": " Look, the road is better than America."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 128.28,
+      "end": 129.52,
+      "text": " What name did you tell?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 129.52,
+      "end": 130.2,
+      "text": " Gopindra Jogi."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 130.2,
+      "end": 131.12,
+      "text": " Where have you been in the US?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 131.12,
+      "end": 132.4,
+      "text": " I have been to many places in the US."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 132.4,
+      "end": 132.92,
+      "text": " Name?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 132.92,
+      "end": 133.8,
+      "text": " Gopindra Jogi."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 133.8,
+      "end": 135.68,
+      "text": " Hahaha."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 135.68,
+      "end": 138.24,
+      "text": " So you can play the video like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 138.24,
+      "end": 140.28,
+      "text": " Now there are some attributes of the video tag here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 140.28,
+      "end": 142.0,
+      "text": " See, it is very simple to use the video tag."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 142.0,
+      "end": 143.36,
+      "text": " You should have a video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 143.36,
+      "end": 144.92000000000002,
+      "text": " You have given the path of the video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 144.92000000000002,
+      "end": 146.12,
+      "text": " After that, you have given the controls."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 146.12,
+      "end": 147.76000000000002,
+      "text": " So these controls will come to you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 147.76000000000002,
+      "end": 148.96,
+      "text": " You can download it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 148.96,
+      "end": 149.84,
+      "text": " You can do full screen."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 149.84,
+      "end": 151.12,
+      "text": " You can mute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 151.12,
+      "end": 152.68,
+      "text": " You can do picture in picture."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 152.68,
+      "end": 154.8,
+      "text": " All this is automatically provided by your browser."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 154.8,
+      "end": 156.32000000000002,
+      "text": " But let me tell you about some attributes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 156.32000000000002,
+      "end": 157.64000000000001,
+      "text": " The first attribute is SRC."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 157.64000000000001,
+      "end": 160.24,
+      "text": " So you know that put the video here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 160.24,
+      "end": 161.88000000000002,
+      "text": " The name of the video file is SRC."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 161.88000000000002,
+      "end": 164.84,
+      "text": " This video file can also come from the external URL."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 164.84,
+      "end": 168.92000000000002,
+      "text": " You understand, if I have uploaded a video on Amazon S3 or somewhere else,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 168.92000000000002,
+      "end": 170.52,
+      "text": " then I can also put the URL there."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 170.52,
+      "end": 172.8,
+      "text": " I mean, it is not necessary that the file is in your computer."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 172.8,
+      "end": 174.24,
+      "text": " It can also be on your server."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 174.24,
+      "end": 175.92000000000002,
+      "text": " It can also come from third party."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 175.92000000000002,
+      "end": 177.24,
+      "text": " Now what does the controls do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 177.24,
+      "end": 179.60000000000002,
+      "text": " Adds video controls like play, pause, and volume."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 179.60000000000002,
+      "end": 182.36,
+      "text": " Which we saw here in the Bhopendra Jogi video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 182.36,
+      "end": 185.48000000000002,
+      "text": " That you are getting the controls here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 185.48000000000002,
+      "end": 187.24,
+      "text": " Now what is this thing?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 187.24,
+      "end": 188.72,
+      "text": " The browser automatically checks"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 188.72,
+      "end": 191.84,
+      "text": " what control ads will be in your video, what will not be."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 191.84,
+      "end": 193.04000000000002,
+      "text": " Then see what will autoplay do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 193.04000000000002,
+      "end": 195.24,
+      "text": " It will automatically play as soon as the page loads."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 195.24,
+      "end": 195.8,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 195.8,
+      "end": 197.12,
+      "text": " So if I put autoplay here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 197.12,
+      "end": 198.4,
+      "text": " let's say I put autoplay here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 198.4,
+      "end": 199.88000000000002,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 199.92,
+      "end": 202.32,
+      "text": " So see."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 202.32,
+      "end": 205.72,
+      "text": " So you can see here that it has been autoplayed."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 205.72,
+      "end": 206.28,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 206.28,
+      "end": 207.88,
+      "text": " So I will remove autoplay from here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 207.88,
+      "end": 210.68,
+      "text": " And our next attribute is loop."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 210.68,
+      "end": 214.68,
+      "text": " That is, once our video is played,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 214.68,
+      "end": 216.07999999999998,
+      "text": " it will keep looping."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 216.07999999999998,
+      "end": 217.56,
+      "text": " Like I show you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 220.48,
+      "end": 221.4,
+      "text": " So it started again."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 221.4,
+      "end": 224.48,
+      "text": " Once I finished it, it started again."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 224.48,
+      "end": 224.8,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 224.8,
+      "end": 227.4,
+      "text": " So this loop works like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 227.4,
+      "end": 228.8,
+      "text": " The next attribute is muted."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 228.8,
+      "end": 230.20000000000002,
+      "text": " Muted mutes the video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 230.20000000000002,
+      "end": 232.0,
+      "text": " So if I write here muted,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 232.0,
+      "end": 233.68,
+      "text": " sometimes we want the video to be muted."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 233.68,
+      "end": 237.12,
+      "text": " In fact, when I add videos here on codewithhari.com"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 237.12,
+      "end": 238.52,
+      "text": " and I demonstrate something,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 238.52,
+      "end": 240.32000000000002,
+      "text": " like downloading VS Code or something,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 240.32000000000002,
+      "end": 242.0,
+      "text": " then I use the muted attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 242.0,
+      "end": 244.20000000000002,
+      "text": " Because I don't want that when I record a video,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 244.20000000000002,
+      "end": 246.20000000000002,
+      "text": " if there is any background noise, you can hear it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 246.20000000000002,
+      "end": 248.64000000000001,
+      "text": " For example, I want to show you that this is the element."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 248.64000000000001,
+      "end": 250.16000000000003,
+      "text": " So I will scroll and make a video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 250.16000000000003,
+      "end": 251.56,
+      "text": " I will highlight it like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 251.56,
+      "end": 252.60000000000002,
+      "text": " So I don't need audio in it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 252.60000000000002,
+      "end": 254.20000000000002,
+      "text": " So I mute it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 254.20000000000002,
+      "end": 257.8,
+      "text": " So you can use the muted attribute on your website."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 257.8,
+      "end": 258.44,
+      "text": " Then the poster."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 258.44,
+      "end": 259.68,
+      "text": " The poster is very important."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 259.68,
+      "end": 261.6,
+      "text": " So I have an image here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 261.6,
+      "end": 262.8,
+      "text": " Download.jpg."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 262.8,
+      "end": 263.40000000000003,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 263.40000000000003,
+      "end": 266.12,
+      "text": " If I write here poster is equal to"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 266.12,
+      "end": 268.04,
+      "text": " and I write download.jpg,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 268.04,
+      "end": 269.96000000000004,
+      "text": " then you will see something like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 269.96000000000004,
+      "end": 270.2,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 270.2,
+      "end": 271.24,
+      "text": " This is how the poster looks."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 271.24,
+      "end": 272.48,
+      "text": " Then I will play it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 272.48,
+      "end": 273.56,
+      "text": " So the video will play."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 273.56,
+      "end": 274.6,
+      "text": " So in a way, thumbnail."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 274.6,
+      "end": 274.84000000000003,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 274.84000000000003,
+      "end": 276.40000000000003,
+      "text": " You saw the thumbnail of the YouTube video, right?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 276.40000000000003,
+      "end": 276.96000000000004,
+      "text": " It's exactly the same."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 276.96000000000004,
+      "end": 278.40000000000003,
+      "text": " This is the poster attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 278.40000000000003,
+      "end": 280.88,
+      "text": " So you can use all these attributes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 280.88,
+      "end": 281.6,
+      "text": " Width and height."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 281.6,
+      "end": 284.36,
+      "text": " You know that it specifies the dimension of the video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 284.36,
+      "end": 286.2,
+      "text": " Like I added both width and height here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 286.2,
+      "end": 287.16,
+      "text": " You saw."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 287.16,
+      "end": 290.44,
+      "text": " So I hope you understood this thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 290.44,
+      "end": 293.88000000000005,
+      "text": " Now, the thing I want to tell you after this is audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 293.88000000000005,
+      "end": 296.04,
+      "text": " So this is for all the attributes of your video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 296.04,
+      "end": 297.08000000000004,
+      "text": " It's very straightforward."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 297.08000000000004,
+      "end": 299.48,
+      "text": " I want you to make a good website."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 299.48,
+      "end": 302.04,
+      "text": " Which I am going to give you at the end of this video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 302.04,
+      "end": 302.64000000000004,
+      "text": " In quick quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 302.64000000000004,
+      "end": 304.16,
+      "text": " So listen to the quick quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 304.16,
+      "end": 305.56,
+      "text": " In fact, I will put the heading here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 305.56,
+      "end": 306.52000000000004,
+      "text": " Quick quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 306.52000000000004,
+      "end": 307.36,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 307.36,
+      "end": 309.64000000000004,
+      "text": " So that I don't forget."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 309.64000000000004,
+      "end": 310.72,
+      "text": " I will give you this now."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 310.72,
+      "end": 312.20000000000005,
+      "text": " And this is going to be a very interesting quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 312.20000000000005,
+      "end": 313.48,
+      "text": " And everyone must solve it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 313.48,
+      "end": 316.20000000000005,
+      "text": " But before that."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 316.24,
+      "end": 317.32,
+      "text": " As soon as you write audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 317.32,
+      "end": 318.28,
+      "text": " Here comes SRC."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 318.28,
+      "end": 321.03999999999996,
+      "text": " And I have to put it in sachin.mp3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 321.03999999999996,
+      "end": 323.15999999999997,
+      "text": " So as soon as I put it in sachin.mp3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 323.15999999999997,
+      "end": 323.92,
+      "text": " Now see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 323.92,
+      "end": 325.4,
+      "text": " I will reload it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 325.4,
+      "end": 327.15999999999997,
+      "text": " And there is no audio here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 327.15999999999997,
+      "end": 327.88,
+      "text": " Which is strange."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 327.88,
+      "end": 329.68,
+      "text": " Let's see what the problem is here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 329.68,
+      "end": 331.2,
+      "text": " I put SRC is equal to."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 331.2,
+      "end": 333.36,
+      "text": " I have to write controls here too."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 333.36,
+      "end": 334.44,
+      "text": " So if I don't write controls."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 334.44,
+      "end": 335.44,
+      "text": " Then I won't see the audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 335.44,
+      "end": 336.48,
+      "text": " See, now the audio has come."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 336.48,
+      "end": 337.52,
+      "text": " I can see the controls here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 337.52,
+      "end": 339.08,
+      "text": " I can also set its volume."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 339.08,
+      "end": 340.59999999999997,
+      "text": " I play this audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 340.59999999999997,
+      "end": 342.4,
+      "text": " What is Sachin in Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 342.4,
+      "end": 343.59999999999997,
+      "text": " Is it a stupid Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 343.59999999999997,
+      "end": 344.03999999999996,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 344.03999999999996,
+      "end": 345.03999999999996,
+      "text": " So this is our audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 345.04,
+      "end": 346.04,
+      "text": " If I mute it and run it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 346.04,
+      "end": 346.64000000000004,
+      "text": " Then it won't work."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 346.64000000000004,
+      "end": 347.64000000000004,
+      "text": " And I can also increase it further."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 347.64000000000004,
+      "end": 349.04,
+      "text": " Is it a stupid Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 349.04,
+      "end": 349.48,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 349.48,
+      "end": 350.28000000000003,
+      "text": " You guys have seen."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 350.28000000000003,
+      "end": 352.04,
+      "text": " So this is audio named sachin.mp3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 352.04,
+      "end": 353.04,
+      "text": " Now what we will do."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 353.04,
+      "end": 354.04,
+      "text": " That."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 354.04,
+      "end": 356.04,
+      "text": " We will see some attributes of this audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 356.04,
+      "end": 357.04,
+      "text": " SRC you know."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 357.04,
+      "end": 358.32000000000005,
+      "text": " That source."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 358.32000000000005,
+      "end": 359.04,
+      "text": " Video file."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 359.04,
+      "end": 359.56,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 359.56,
+      "end": 360.24,
+      "text": " Then after this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 360.24,
+      "end": 361.44,
+      "text": " Controls you know."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 361.44,
+      "end": 362.44,
+      "text": " That play, pause or volume."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 362.44,
+      "end": 363.44,
+      "text": " Which we just saw."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 363.44,
+      "end": 364.64000000000004,
+      "text": " What will autoplay do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 364.64000000000004,
+      "end": 365.92,
+      "text": " It will play it automatically."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 365.92,
+      "end": 367.44,
+      "text": " If I have here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 367.44,
+      "end": 368.44,
+      "text": " Autoplay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 368.44,
+      "end": 369.64000000000004,
+      "text": " What is Sachin in Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 369.64000000000004,
+      "end": 370.64000000000004,
+      "text": " Automatically played."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 370.64000000000004,
+      "end": 371.64000000000004,
+      "text": " Is it a stupid Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 371.64000000000004,
+      "end": 373.44,
+      "text": " So what does it do by autoplaying?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 373.44,
+      "end": 374.44,
+      "text": " Automatically played."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 374.44,
+      "end": 375.44,
+      "text": " Our audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 375.44,
+      "end": 376.44,
+      "text": " After this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 376.44,
+      "end": 377.44,
+      "text": " Next attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 377.44,
+      "end": 378.44,
+      "text": " That is loop."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 378.44,
+      "end": 379.44,
+      "text": " What will loop do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 379.44,
+      "end": 380.44,
+      "text": " It will repeat."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 380.44,
+      "end": 382.44,
+      "text": " If I want to loop it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 382.44,
+      "end": 383.44,
+      "text": " So I have autoplayed."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 383.44,
+      "end": 384.44,
+      "text": " And I will loop it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 384.44,
+      "end": 385.44,
+      "text": " What is Sachin in Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 385.44,
+      "end": 387.44,
+      "text": " Is it a stupid Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 387.44,
+      "end": 388.44,
+      "text": " Once."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 388.44,
+      "end": 389.44,
+      "text": " What is Sachin in Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 389.44,
+      "end": 390.44,
+      "text": " Second time."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 390.44,
+      "end": 391.44,
+      "text": " Is it a stupid Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 391.44,
+      "end": 392.44,
+      "text": " So you saw it was repeated."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 392.44,
+      "end": 393.44,
+      "text": " Means it was played once."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 393.44,
+      "end": 394.44,
+      "text": " Then it was played again."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 394.44,
+      "end": 396.44,
+      "text": " Because I had looped the audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 396.44,
+      "end": 397.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 397.44,
+      "end": 398.44,
+      "text": " So you guys have seen this thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 398.44,
+      "end": 399.44,
+      "text": " Sachin.mp3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 399.44,
+      "end": 400.44,
+      "text": " I looped it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 400.44,
+      "end": 401.44,
+      "text": " Means it was played once."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 401.44,
+      "end": 402.44,
+      "text": " Then it was played."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 402.44,
+      "end": 403.44,
+      "text": " What is Sachin?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 403.44,
+      "end": 404.44,
+      "text": " Sachin."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 404.44,
+      "end": 405.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 405.44,
+      "end": 406.44,
+      "text": " It was being said again and again."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 406.44,
+      "end": 407.44,
+      "text": " Because this MP3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 407.44,
+      "end": 408.44,
+      "text": " It will be played again and again."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 408.44,
+      "end": 410.44,
+      "text": " So there are many use cases."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 410.44,
+      "end": 411.44,
+      "text": " When you want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 411.44,
+      "end": 412.44,
+      "text": " This MP3."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 412.44,
+      "end": 413.44,
+      "text": " This is repeat."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 413.44,
+      "end": 414.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 414.44,
+      "end": 415.44,
+      "text": " So if you want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 415.44,
+      "end": 416.44,
+      "text": " That your MP3 is repeat."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 416.44,
+      "end": 417.44,
+      "text": " Then you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 417.44,
+      "end": 418.44,
+      "text": " Now."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 418.44,
+      "end": 419.44,
+      "text": " After this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 419.44,
+      "end": 420.44,
+      "text": " What will mutate do?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 420.44,
+      "end": 421.44,
+      "text": " It will mute the audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 421.44,
+      "end": 423.44,
+      "text": " And definitely you don't want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 423.44,
+      "end": 425.44,
+      "text": " That by default your audio is mute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 425.44,
+      "end": 426.44,
+      "text": " In most of the cases."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 426.44,
+      "end": 427.44,
+      "text": " But."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 427.44,
+      "end": 428.44,
+      "text": " Sometimes we will want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 428.44,
+      "end": 429.44,
+      "text": " That."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 429.44,
+      "end": 430.44,
+      "text": " The audio is muted."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 430.44,
+      "end": 431.44,
+      "text": " And we can say here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 431.44,
+      "end": 432.44,
+      "text": " To the user."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 432.44,
+      "end": 433.44,
+      "text": " That brother."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 433.44,
+      "end": 434.44,
+      "text": " Whoever wants to listen."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 434.44,
+      "end": 435.44,
+      "text": " Unmute it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 435.44,
+      "end": 436.44,
+      "text": " Sachin."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 436.44,
+      "end": 437.44,
+      "text": " What is it?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 437.44,
+      "end": 438.44,
+      "text": " When do we do this?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 438.44,
+      "end": 439.44,
+      "text": " When there are multiple audios."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 439.44,
+      "end": 440.44,
+      "text": " You want to show 5-6 audios at once."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 440.44,
+      "end": 441.44,
+      "text": " You can mute them."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 441.44,
+      "end": 442.44,
+      "text": " Your user can play."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 442.44,
+      "end": 443.44,
+      "text": " Unmute it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 443.44,
+      "end": 444.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 444.44,
+      "end": 445.44,
+      "text": " So."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 445.44,
+      "end": 446.44,
+      "text": " You have control in your hand."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 446.44,
+      "end": 447.44,
+      "text": " If you want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 447.44,
+      "end": 448.44,
+      "text": " You can use this thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 448.44,
+      "end": 449.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 449.44,
+      "end": 450.44,
+      "text": " In total."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 450.44,
+      "end": 451.44,
+      "text": " This is the thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 451.44,
+      "end": 452.44,
+      "text": " So."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 452.44,
+      "end": 453.44,
+      "text": " I hope you understood this thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 453.44,
+      "end": 454.44,
+      "text": " You guys must have enjoyed."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 454.44,
+      "end": 455.44,
+      "text": " Now preload."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 455.44,
+      "end": 456.44,
+      "text": " The most confusing attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 456.44,
+      "end": 457.44,
+      "text": " That's why I have explained it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 457.44,
+      "end": 458.44,
+      "text": " On codewithaddy.com."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 458.44,
+      "end": 459.44,
+      "text": " That the preload attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 459.44,
+      "end": 460.44,
+      "text": " That these values can be."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 460.44,
+      "end": 461.44,
+      "text": " The first value can be none."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 461.44,
+      "end": 462.44,
+      "text": " This is the default value."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 462.44,
+      "end": 463.44,
+      "text": " It indicates."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 463.44,
+      "end": 464.44,
+      "text": " That the browser should not."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 464.44,
+      "end": 465.44,
+      "text": " Preload the audio at all."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 465.44,
+      "end": 466.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 466.44,
+      "end": 467.44,
+      "text": " Preload means."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 467.44,
+      "end": 468.44,
+      "text": " If you want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 468.44,
+      "end": 469.44,
+      "text": " If the browser fetches the data."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 469.44,
+      "end": 470.44,
+      "text": " Then you will use the preload attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 470.44,
+      "end": 471.44,
+      "text": " Otherwise."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 471.44,
+      "end": 472.44,
+      "text": " You will not use the preload attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 472.44,
+      "end": 473.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 473.44,
+      "end": 474.44,
+      "text": " Preload is equal to none."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 474.44,
+      "end": 475.44,
+      "text": " It is the default value."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 475.44,
+      "end": 476.44,
+      "text": " Preload is equal to metadata."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 476.44,
+      "end": 477.44,
+      "text": " Means."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 477.44,
+      "end": 478.44,
+      "text": " That the browser."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 478.44,
+      "end": 479.44,
+      "text": " Only metadata."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 479.44,
+      "end": 480.44,
+      "text": " That is."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 480.44,
+      "end": 481.44,
+      "text": " The information about that audio file."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 481.44,
+      "end": 482.44,
+      "text": " It will preload it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 482.44,
+      "end": 483.44,
+      "text": " That is."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 483.44,
+      "end": 484.44,
+      "text": " It will load it from the beginning."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 484.44,
+      "end": 485.44,
+      "text": " And what will happen by doing auto."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 485.44,
+      "end": 486.44,
+      "text": " That the browser."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 486.44,
+      "end": 487.44,
+      "text": " Will preload it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 487.44,
+      "end": 488.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 488.44,
+      "end": 489.44,
+      "text": " So preload is equal to auto."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 489.44,
+      "end": 490.44,
+      "text": " If I do it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 490.44,
+      "end": 491.44,
+      "text": " Then it will be downloaded."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 491.44,
+      "end": 492.44,
+      "text": " And it will be loaded automatically."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 492.44,
+      "end": 493.44,
+      "text": " So that whenever the user plays it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 493.44,
+      "end": 494.44,
+      "text": " Then the audio is saved."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 494.44,
+      "end": 495.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 495.44,
+      "end": 496.44,
+      "text": " So."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 496.44,
+      "end": 497.44,
+      "text": " This is the work of the preload attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 497.44,
+      "end": 498.44,
+      "text": " And in interviews."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 498.44,
+      "end": 499.44,
+      "text": " This preload attribute is asked a lot."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 499.44,
+      "end": 500.44,
+      "text": " So you should know."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 500.44,
+      "end": 501.44,
+      "text": " What is the preload attribute."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 501.44,
+      "end": 502.44,
+      "text": " Before moving ahead."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 502.44,
+      "end": 503.44,
+      "text": " I want you to share this playlist."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 503.44,
+      "end": 504.44,
+      "text": " With your friends."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 504.44,
+      "end": 505.44,
+      "text": " Because I am seeing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 505.44,
+      "end": 506.44,
+      "text": " That the interest is declining a lot."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 506.44,
+      "end": 507.44,
+      "text": " As we are moving forward in the videos."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 507.44,
+      "end": 508.44,
+      "text": " My request to you is."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 508.44,
+      "end": 509.44,
+      "text": " That you like this video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 509.44,
+      "end": 510.44,
+      "text": " And share it with your friends."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 510.44,
+      "end": 511.44,
+      "text": " Because I am watching."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 511.44,
+      "end": 512.44,
+      "text": " That the interest is declining a lot."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 512.44,
+      "end": 513.44,
+      "text": " As we are moving forward in the videos."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 513.44,
+      "end": 514.44,
+      "text": " And share it with your friends."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 515.44,
+      "end": 516.44,
+      "text": " My request to you is."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 516.44,
+      "end": 517.44,
+      "text": " That you like this video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 517.44,
+      "end": 518.44,
+      "text": " And along with that."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 518.44,
+      "end": 519.44,
+      "text": " As you are forking this repository."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 519.44,
+      "end": 520.44,
+      "text": " You should star it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 520.44,
+      "end": 521.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 521.44,
+      "end": 522.44,
+      "text": " Your star."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 522.44,
+      "end": 523.44,
+      "text": " Your likes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 523.44,
+      "end": 524.44,
+      "text": " All this will help me a lot."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 524.44,
+      "end": 525.44,
+      "text": " To bring such free courses."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 525.44,
+      "end": 526.44,
+      "text": " So this was about."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 526.44,
+      "end": 527.44,
+      "text": " Audio and video tags."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 527.44,
+      "end": 528.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 528.44,
+      "end": 529.44,
+      "text": " I have told you all the attributes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 529.44,
+      "end": 530.44,
+      "text": " And you should definitely use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 530.44,
+      "end": 531.44,
+      "text": " I will give you all the images."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 531.44,
+      "end": 532.44,
+      "text": " So that you can try it out."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 532.44,
+      "end": 533.44,
+      "text": " Now a lot of people were asking."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 533.44,
+      "end": 534.44,
+      "text": " That can we use replit."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 534.44,
+      "end": 535.44,
+      "text": " See in this course."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 535.44,
+      "end": 536.44,
+      "text": " I have told you about replit."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 536.44,
+      "end": 537.44,
+      "text": " And I have told you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 537.44,
+      "end": 538.44,
+      "text": " That you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 538.44,
+      "end": 539.44,
+      "text": " And you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 539.44,
+      "end": 540.44,
+      "text": " And you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 540.44,
+      "end": 541.44,
+      "text": " And you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 541.44,
+      "end": 542.44,
+      "text": " And you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 542.44,
+      "end": 543.44,
+      "text": " And you can use it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 544.44,
+      "end": 545.44,
+      "text": " I have not used replit."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 545.44,
+      "end": 546.44,
+      "text": " But replit.com is an amazing website."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 546.44,
+      "end": 547.44,
+      "text": " If you want."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 547.44,
+      "end": 548.44,
+      "text": " You can use it in your phone."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 548.44,
+      "end": 549.44,
+      "text": " If you want to run html."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 549.44,
+      "end": 550.44,
+      "text": " If you want to run html."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 550.44,
+      "end": 551.44,
+      "text": " There is replit app."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 551.44,
+      "end": 552.44,
+      "text": " There is for iOS."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 552.44,
+      "end": 553.44,
+      "text": " There is for Android."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 553.44,
+      "end": 554.44,
+      "text": " So you can try it out."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 554.44,
+      "end": 555.44,
+      "text": " A lot of people are asking."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 555.44,
+      "end": 556.44,
+      "text": " How to do recording in phone."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 556.44,
+      "end": 557.44,
+      "text": " Replit."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 557.44,
+      "end": 558.44,
+      "text": " But what I want now."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 558.44,
+      "end": 559.44,
+      "text": " VS Code."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 559.44,
+      "end": 560.44,
+      "text": " Which most of the people."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 560.44,
+      "end": 561.44,
+      "text": " Want to use."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 561.44,
+      "end": 562.44,
+      "text": " Prefer."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 562.44,
+      "end": 563.44,
+      "text": " So I thought."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 563.44,
+      "end": 564.44,
+      "text": " Why not make videos in VS Code."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 564.44,
+      "end": 565.44,
+      "text": " But I personally."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 565.44,
+      "end": 566.44,
+      "text": " Use replit a lot."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 566.44,
+      "end": 567.44,
+      "text": " Infact videos also come in replit."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 567.44,
+      "end": 568.44,
+      "text": " Next topic is SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 568.44,
+      "end": 569.44,
+      "text": " Media science."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 569.44,
+      "end": 570.44,
+      "text": " So I thought."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 570.44,
+      "end": 571.44,
+      "text": " Why not make videos in media science."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 571.44,
+      "end": 572.44,
+      "text": " So I thought."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 572.44,
+      "end": 573.44,
+      "text": " Why not make videos in media science."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 573.44,
+      "end": 574.44,
+      "text": " Because."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 574.44,
+      "end": 575.44,
+      "text": " SVG is a format."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 575.44,
+      "end": 576.44,
+      "text": " By which."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 576.44,
+      "end": 577.44,
+      "text": " You can create."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 577.44,
+      "end": 578.44,
+      "text": " Image."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 578.44,
+      "end": 579.44,
+      "text": " With high graphics."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 579.44,
+      "end": 580.44,
+      "text": " With high graphics."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 580.44,
+      "end": 581.44,
+      "text": " So you can copy."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 581.44,
+      "end": 582.44,
+      "text": " And make circles."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 582.44,
+      "end": 583.44,
+      "text": " And make circles."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 583.44,
+      "end": 584.44,
+      "text": " So SVG is used."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 584.44,
+      "end": 585.44,
+      "text": " In the same way."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 585.44,
+      "end": 586.44,
+      "text": " As."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 586.44,
+      "end": 587.44,
+      "text": " IMG tag is used."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 587.44,
+      "end": 588.44,
+      "text": " So I will put SVG here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 588.44,
+      "end": 589.44,
+      "text": " So SVG will come here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 589.44,
+      "end": 590.44,
+      "text": " So this circle and SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 590.44,
+      "end": 591.44,
+      "text": " Will come here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 591.44,
+      "end": 592.44,
+      "text": " Video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 592.44,
+      "end": 593.44,
+      "text": " Audio."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 593.44,
+      "end": 594.44,
+      "text": " SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 594.44,
+      "end": 595.44,
+      "text": " These are inline elements."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 595.44,
+      "end": 596.44,
+      "text": " That's why."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 596.44,
+      "end": 597.44,
+      "text": " We like it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 597.44,
+      "end": 598.44,
+      "text": " So I will put it here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 598.44,
+      "end": 599.44,
+      "text": " And then."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 599.44,
+      "end": 600.44,
+      "text": " I will put."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 600.44,
+      "end": 601.44,
+      "text": " SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 601.44,
+      "end": 602.44,
+      "text": " So we are getting."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 602.44,
+      "end": 603.44,
+      "text": " To see all the elements in one line."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 603.44,
+      "end": 604.44,
+      "text": " Okay."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 604.44,
+      "end": 605.44,
+      "text": " You have seen it here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 605.44,
+      "end": 606.44,
+      "text": " Now."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 606.44,
+      "end": 607.44,
+      "text": " What is here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 607.44,
+      "end": 608.44,
+      "text": " That you can save SVG file separately."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 608.44,
+      "end": 609.44,
+      "text": " You can save SVG file separately."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 609.44,
+      "end": 610.44,
+      "text": " Like if I write here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 610.44,
+      "end": 611.44,
+      "text": " That."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 611.44,
+      "end": 612.44,
+      "text": " IMG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 612.44,
+      "end": 613.44,
+      "text": " SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 613.44,
+      "end": 614.44,
+      "text": " And save the content of SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 614.44,
+      "end": 615.44,
+      "text": " So if I write here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 615.44,
+      "end": 616.44,
+      "text": " IMG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 616.44,
+      "end": 617.44,
+      "text": " And write it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 617.44,
+      "end": 618.44,
+      "text": " And I will write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 618.44,
+      "end": 619.44,
+      "text": " IMG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 619.44,
+      "end": 620.44,
+      "text": " SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 620.44,
+      "end": 621.44,
+      "text": " So you guys see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 621.44,
+      "end": 622.44,
+      "text": " That I did not get to see this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 622.44,
+      "end": 623.44,
+      "text": " If I write alt here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 623.44,
+      "end": 624.44,
+      "text": " And write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 624.44,
+      "end": 625.44,
+      "text": " My SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 625.44,
+      "end": 626.44,
+      "text": " Image."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 626.44,
+      "end": 627.44,
+      "text": " So you see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 627.44,
+      "end": 628.44,
+      "text": " That."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 628.44,
+      "end": 629.44,
+      "text": " I got to see this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 629.44,
+      "end": 630.44,
+      "text": " So you see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 630.44,
+      "end": 631.44,
+      "text": " That."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 631.44,
+      "end": 632.44,
+      "text": " My SVG image came like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 632.44,
+      "end": 633.44,
+      "text": " But I did not get to see SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 633.44,
+      "end": 634.44,
+      "text": " Why did this happen?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 634.44,
+      "end": 635.44,
+      "text": " This happened because."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 635.44,
+      "end": 636.44,
+      "text": " Because the SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 636.44,
+      "end": 637.44,
+      "text": " SVG file."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 637.44,
+      "end": 638.44,
+      "text": " In browser."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 638.44,
+      "end": 639.44,
+      "text": " I write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 639.44,
+      "end": 640.44,
+      "text": " And."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 640.44,
+      "end": 641.44,
+      "text": " SVG file."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 641.44,
+      "end": 642.44,
+      "text": " Whenever you want to see in the browser."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 642.44,
+      "end": 643.44,
+      "text": " So you will put a declaration."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 643.44,
+      "end": 644.44,
+      "text": " I will show you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 644.44,
+      "end": 645.44,
+      "text": " So I wrote here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 645.44,
+      "end": 646.44,
+      "text": " SVG file not showing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 646.44,
+      "end": 647.44,
+      "text": " So here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 647.44,
+      "end": 648.44,
+      "text": " There is an answer to the stack overflow."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 648.44,
+      "end": 649.44,
+      "text": " Which will tell you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 649.44,
+      "end": 650.44,
+      "text": " So you have to write this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 650.44,
+      "end": 651.44,
+      "text": " I will show you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 651.44,
+      "end": 652.44,
+      "text": " XML."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 652.44,
+      "end": 653.44,
+      "text": " Something like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 653.44,
+      "end": 654.44,
+      "text": " See."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 654.44,
+      "end": 655.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 655.44,
+      "end": 656.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 656.44,
+      "end": 657.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 657.44,
+      "end": 658.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 658.44,
+      "end": 659.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 659.44,
+      "end": 660.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 660.44,
+      "end": 661.44,
+      "text": " So you have to write."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 661.44,
+      "end": 662.44,
+      "text": " Just like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 662.44,
+      "end": 663.44,
+      "text": " You have to add this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 663.44,
+      "end": 664.44,
+      "text": " It is called name space declaration."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 664.44,
+      "end": 665.44,
+      "text": " So."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 665.44,
+      "end": 666.44,
+      "text": " You have to add the SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 666.44,
+      "end": 667.44,
+      "text": " Now you see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 667.44,
+      "end": 668.44,
+      "text": " This SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 668.44,
+      "end": 669.44,
+      "text": " Now you see here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 669.44,
+      "end": 670.44,
+      "text": " You see this SVG."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 670.44,
+      "end": 671.44,
+      "text": " So this thing is very important."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 671.44,
+      "end": 672.44,
+      "text": " And a lot of people."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 672.44,
+      "end": 673.44,
+      "text": " In the future, when the websites."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 673.44,
+      "end": 674.44,
+      "text": " You make your own."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 674.44,
+      "end": 675.44,
+      "text": " Then we definitely get stuck in this problem."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 675.44,
+      "end": 676.44,
+      "text": " I keep getting stuck."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 676.44,
+      "end": 677.44,
+      "text": " So I am telling you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 677.44,
+      "end": 678.44,
+      "text": " I have already described the problem."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 678.44,
+      "end": 679.44,
+      "text": " I have already described the problem."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 679.44,
+      "end": 680.44,
+      "text": " You have not got a problem."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 680.44,
+      "end": 681.44,
+      "text": " I have also told that."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 681.44,
+      "end": 682.44,
+      "text": " It is coming."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 682.44,
+      "end": 683.44,
+      "text": " And also told you the solution."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 683.44,
+      "end": 684.44,
+      "text": " Next topic is iframes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 684.44,
+      "end": 685.44,
+      "text": " Next topic is iframes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 685.44,
+      "end": 686.44,
+      "text": " Iframes."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 689.44,
+      "end": 692.44,
+      "text": " you can embed the other website in your website."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 692.44,
+      "end": 695.44,
+      "text": " Like if I want to embed this webpage,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 695.44,
+      "end": 697.44,
+      "text": " I can do it by using an iframe like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 697.44,
+      "end": 699.44,
+      "text": " So see, I have written iframe here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 699.44,
+      "end": 701.44,
+      "text": " and I will copy this URL,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 701.44,
+      "end": 703.44,
+      "text": " and I will paste it here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 703.44,
+      "end": 705.44,
+      "text": " and you can see here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 705.44,
+      "end": 707.44,
+      "text": " that this website is completely embedded here"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 707.44,
+      "end": 708.44,
+      "text": " in this iframe."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 708.44,
+      "end": 711.44,
+      "text": " You definitely want to embed it in a big iframe,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 711.44,
+      "end": 713.44,
+      "text": " but if you want it to be embedded,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 713.44,
+      "end": 715.44,
+      "text": " then you can embed it like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 715.44,
+      "end": 717.44,
+      "text": " I will do one thing, I will increase its height a little."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 717.44,
+      "end": 719.44,
+      "text": " So width is equal to width,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 719.44,
+      "end": 721.44,
+      "text": " width is equal to, let's say, 122,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 721.44,
+      "end": 723.44,
+      "text": " height is equal to 444."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 723.44,
+      "end": 724.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 724.44,
+      "end": 726.44,
+      "text": " So see, it came out like this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 726.44,
+      "end": 728.44,
+      "text": " Now definitely, it was coming in this width,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 728.44,
+      "end": 730.44,
+      "text": " so it came in this line,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 730.44,
+      "end": 732.44,
+      "text": " but if I increase the width a little,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 732.44,
+      "end": 734.44,
+      "text": " let's say I increase the width to 322."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 734.44,
+      "end": 735.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 735.44,
+      "end": 738.44,
+      "text": " So see, my website is completely embedded here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 738.44,
+      "end": 739.44,
+      "text": " Can you see?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 739.44,
+      "end": 741.44,
+      "text": " So you can embed a website."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 741.44,
+      "end": 743.44,
+      "text": " Another use case of iframe is YouTube video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 743.44,
+      "end": 746.44,
+      "text": " If you want to share a YouTube video"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 746.44,
+      "end": 747.44,
+      "text": " and click on embed here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 747.44,
+      "end": 749.44,
+      "text": " then it will give you an iframe code."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 749.44,
+      "end": 752.44,
+      "text": " And you can start it here in any way."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 752.44,
+      "end": 754.44,
+      "text": " If you want to start at a particular time,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 754.44,
+      "end": 755.44,
+      "text": " then you can do that here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 755.44,
+      "end": 757.44,
+      "text": " The point at which you will start and share it,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 757.44,
+      "end": 758.44,
+      "text": " that time comes here,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 758.44,
+      "end": 759.44,
+      "text": " which I will show you."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 759.44,
+      "end": 760.44,
+      "text": " Wait."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 760.44,
+      "end": 762.44,
+      "text": " Let's say I want to start from here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 762.44,
+      "end": 763.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 763.44,
+      "end": 764.44,
+      "text": " Let's say the video starts from here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 764.44,
+      "end": 766.44,
+      "text": " So what I will do is click on share."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 766.44,
+      "end": 769.44,
+      "text": " After clicking on share, I will click on embed."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 769.44,
+      "end": 771.44,
+      "text": " I will do start at 1219 and I will copy it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 771.44,
+      "end": 773.44,
+      "text": " See, there is a copy button here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 773.44,
+      "end": 775.44,
+      "text": " And I will put it in my code here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 775.44,
+      "end": 777.44,
+      "text": " I will comment out the iframe."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 777.44,
+      "end": 779.44,
+      "text": " And I will put the iframe below."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 779.44,
+      "end": 780.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 780.44,
+      "end": 783.44,
+      "text": " I will wrap the word so that you can see the code properly."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 783.44,
+      "end": 786.44,
+      "text": " So now what I will do is after pasting this,"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 786.44,
+      "end": 788.44,
+      "text": " I will show you the document."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 788.44,
+      "end": 790.44,
+      "text": " See, this video is embedded here."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 790.44,
+      "end": 791.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 791.44,
+      "end": 793.44,
+      "text": " So I hope you understood this thing."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 793.44,
+      "end": 797.44,
+      "text": " And this is all there is in media HTML."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 797.44,
+      "end": 798.44,
+      "text": " Pretty much."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 798.44,
+      "end": 801.44,
+      "text": " Miscellaneous, you will see a lot of things in every topic."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 801.44,
+      "end": 803.44,
+      "text": " But pretty much that's all about media HTML."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 803.44,
+      "end": 805.44,
+      "text": " Media HTML is just audio, video, media."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 805.44,
+      "end": 808.44,
+      "text": " This is what you will use 95% of the times."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 808.44,
+      "end": 810.44,
+      "text": " Now I will give you a quick quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 810.44,
+      "end": 812.44,
+      "text": " And your quick quiz is this."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 812.44,
+      "end": 817.44,
+      "text": " Create a website which shows videos of different categories."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 817.44,
+      "end": 818.44,
+      "text": " Okay?"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 818.44,
+      "end": 820.44,
+      "text": " And audios of different categories."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 820.44,
+      "end": 826.44,
+      "text": " You can use YouTube videos in an iframe using YouTube's embedding feature."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 826.44,
+      "end": 830.44,
+      "text": " So what you have to do is you have to make a website"
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 830.44,
+      "end": 832.44,
+      "text": " in which you will get a lot of content."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 832.44,
+      "end": 837.44,
+      "text": " Now you can use the video audio tags and YouTube's share feature."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 837.44,
+      "end": 841.44,
+      "text": " You can embed it the same way I did YouTube video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 841.44,
+      "end": 844.44,
+      "text": " And make a very good website and show me."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 844.44,
+      "end": 846.44,
+      "text": " If you want, you can give me a GitHub comment."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 846.44,
+      "end": 850.44,
+      "text": " And if you want, you can tell me the code and explain it."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 850.44,
+      "end": 852.44,
+      "text": " But do attempt this quiz."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 852.44,
+      "end": 854.44,
+      "text": " And do write Sigma Batch OP in the comment section."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 854.44,
+      "end": 856.44,
+      "text": " Access this playlist."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 856.44,
+      "end": 857.44,
+      "text": " Like the video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 857.44,
+      "end": 859.44,
+      "text": " Do write Sigma Batch OP."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 859.44,
+      "end": 860.44,
+      "text": " That's all for this video, guys."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 860.44,
+      "end": 862.44,
+      "text": " Thank you so much, guys, for watching this video."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 862.44,
+      "end": 864.44,
+      "text": " And I will see you next time."
+    },
+    {
+      "number": "10",
+      "title": "Vide",
+      "start": 864.44,
+      "end": 886.44,
+      "text": " Outro Music"
+    }
+  ],
+  "text": " In today's video, we will learn how audio, video and media elements are used in HTML. In our very first video, we saw that we can embed videos in HTML. Today I will tell you how the video is auto-played, how to keep a muted video, and how you can enable and disable the video controls. Along with that, we will also see very closely about audio, how media can be shown in an overall page. So do like this video and stay in this video because the examples I have used for video tags are very amazing. Let's go to the video screen. Let's roll the intro. Intro Friends, this time I have made a folder named video10. I will not waste your time by opening the open with code by right-clicking and shifting. In fact, I will make it in index.html. And the topic of today's video is video. How to play a video, how to put a video in an HTML file, how to put audio, how to put media. So adding a video is very straightforward. I will copy it here, which is our video tag. It has an src attribute and it has some other attributes about which I will discuss with you. But first of all, I want to tell you here that video src is equal to you will write here, so if you have video.mp4, it will play. I have video.mp4. So let's see here, I have put it here with ctrl. And I will click here and preview it. And you can see here that this video has come. Now it is a very big video. So what can I do? I can give its width. So I can say here width is equal to 555 pixels. And as soon as I do 555 pixels, in fact, I don't need to write px. I will only do 555. Like we don't need to write px in the image. We don't need to write px here either. So as soon as I did width is equal to 555, in fact, I do one thing, I do height is equal to 555 so that it becomes smaller. In fact, I make it smaller. I make it 255. And you see, it came here. Now I play it because I have clicked ctrl. I can play it. Look, the road is better than America. What name did you tell? Gopindra Jogi. Where have you been in the US? I have been to many places in the US. Name? Gopindra Jogi. Hahaha. So you can play the video like this. Now there are some attributes of the video tag here. See, it is very simple to use the video tag. You should have a video. You have given the path of the video. After that, you have given the controls. So these controls will come to you. You can download it. You can do full screen. You can mute. You can do picture in picture. All this is automatically provided by your browser. But let me tell you about some attributes. The first attribute is SRC. So you know that put the video here. The name of the video file is SRC. This video file can also come from the external URL. You understand, if I have uploaded a video on Amazon S3 or somewhere else, then I can also put the URL there. I mean, it is not necessary that the file is in your computer. It can also be on your server. It can also come from third party. Now what does the controls do? Adds video controls like play, pause, and volume. Which we saw here in the Bhopendra Jogi video. That you are getting the controls here. Now what is this thing? The browser automatically checks what control ads will be in your video, what will not be. Then see what will autoplay do? It will automatically play as soon as the page loads. Okay? So if I put autoplay here, let's say I put autoplay here. Okay? So see. So you can see here that it has been autoplayed. Okay? So I will remove autoplay from here. And our next attribute is loop. That is, once our video is played, it will keep looping. Like I show you. So it started again. Once I finished it, it started again. Okay? So this loop works like this. The next attribute is muted. Muted mutes the video. So if I write here muted, sometimes we want the video to be muted. In fact, when I add videos here on codewithhari.com and I demonstrate something, like downloading VS Code or something, then I use the muted attribute. Because I don't want that when I record a video, if there is any background noise, you can hear it. For example, I want to show you that this is the element. So I will scroll and make a video. I will highlight it like this. So I don't need audio in it. So I mute it. So you can use the muted attribute on your website. Then the poster. The poster is very important. So I have an image here. Download.jpg. Okay? If I write here poster is equal to and I write download.jpg, then you will see something like this. Okay? This is how the poster looks. Then I will play it. So the video will play. So in a way, thumbnail. Okay? You saw the thumbnail of the YouTube video, right? It's exactly the same. This is the poster attribute. So you can use all these attributes. Width and height. You know that it specifies the dimension of the video. Like I added both width and height here. You saw. So I hope you understood this thing. Now, the thing I want to tell you after this is audio. So this is for all the attributes of your video. It's very straightforward. I want you to make a good website. Which I am going to give you at the end of this video. In quick quiz. So listen to the quick quiz. In fact, I will put the heading here. Quick quiz. Okay? So that I don't forget. I will give you this now. And this is going to be a very interesting quiz. And everyone must solve it. But before that. As soon as you write audio. Here comes SRC. And I have to put it in sachin.mp3. So as soon as I put it in sachin.mp3. Now see here. I will reload it. And there is no audio here. Which is strange. Let's see what the problem is here. I put SRC is equal to. I have to write controls here too. So if I don't write controls. Then I won't see the audio. See, now the audio has come. I can see the controls here. I can also set its volume. I play this audio. What is Sachin in Sachin? Is it a stupid Sachin? Okay. So this is our audio. If I mute it and run it. Then it won't work. And I can also increase it further. Is it a stupid Sachin? Okay. You guys have seen. So this is audio named sachin.mp3. Now what we will do. That. We will see some attributes of this audio. SRC you know. That source. Video file. Okay. Then after this. Controls you know. That play, pause or volume. Which we just saw. What will autoplay do? It will play it automatically. If I have here. Autoplay. What is Sachin in Sachin? Automatically played. Is it a stupid Sachin? So what does it do by autoplaying? Automatically played. Our audio. After this. Next attribute. That is loop. What will loop do? It will repeat. If I want to loop it. So I have autoplayed. And I will loop it. What is Sachin in Sachin? Is it a stupid Sachin? Once. What is Sachin in Sachin? Second time. Is it a stupid Sachin? So you saw it was repeated. Means it was played once. Then it was played again. Because I had looped the audio. Okay. So you guys have seen this thing. Sachin.mp3. I looped it. Means it was played once. Then it was played. What is Sachin? Sachin. Okay. It was being said again and again. Because this MP3. It will be played again and again. So there are many use cases. When you want. This MP3. This is repeat. Okay. So if you want. That your MP3 is repeat. Then you can use it. Now. After this. What will mutate do? It will mute the audio. And definitely you don't want. That by default your audio is mute. In most of the cases. But. Sometimes we will want. That. The audio is muted. And we can say here. To the user. That brother. Whoever wants to listen. Unmute it. Sachin. What is it? When do we do this? When there are multiple audios. You want to show 5-6 audios at once. You can mute them. Your user can play. Unmute it. Okay. So. You have control in your hand. If you want. You can use this thing. Okay. In total. This is the thing. So. I hope you understood this thing. You guys must have enjoyed. Now preload. The most confusing attribute. That's why I have explained it. On codewithaddy.com. That the preload attribute. That these values can be. The first value can be none. This is the default value. It indicates. That the browser should not. Preload the audio at all. Okay. Preload means. If you want. If the browser fetches the data. Then you will use the preload attribute. Otherwise. You will not use the preload attribute. Okay. Preload is equal to none. It is the default value. Preload is equal to metadata. Means. That the browser. Only metadata. That is. The information about that audio file. It will preload it. That is. It will load it from the beginning. And what will happen by doing auto. That the browser. Will preload it. Okay. So preload is equal to auto. If I do it. Then it will be downloaded. And it will be loaded automatically. So that whenever the user plays it. Then the audio is saved. Okay. So. This is the work of the preload attribute. And in interviews. This preload attribute is asked a lot. So you should know. What is the preload attribute. Before moving ahead. I want you to share this playlist. With your friends. Because I am seeing. That the interest is declining a lot. As we are moving forward in the videos. My request to you is. That you like this video. And share it with your friends. Because I am watching. That the interest is declining a lot. As we are moving forward in the videos. And share it with your friends. My request to you is. That you like this video. And along with that. As you are forking this repository. You should star it. Okay. Your star. Your likes. All this will help me a lot. To bring such free courses. So this was about. Audio and video tags. Okay. I have told you all the attributes. And you should definitely use it. I will give you all the images. So that you can try it out. Now a lot of people were asking. That can we use replit. See in this course. I have told you about replit. And I have told you. That you can use it. And you can use it. And you can use it. And you can use it. And you can use it. And you can use it. I have not used replit. But replit.com is an amazing website. If you want. You can use it in your phone. If you want to run html. If you want to run html. There is replit app. There is for iOS. There is for Android. So you can try it out. A lot of people are asking. How to do recording in phone. Replit. But what I want now. VS Code. Which most of the people. Want to use. Prefer. So I thought. Why not make videos in VS Code. But I personally. Use replit a lot. Infact videos also come in replit. Next topic is SVG. Media science. So I thought. Why not make videos in media science. So I thought. Why not make videos in media science. Because. SVG is a format. By which. You can create. Image. With high graphics. With high graphics. So you can copy. And make circles. And make circles. So SVG is used. In the same way. As. IMG tag is used. So I will put SVG here. So SVG will come here. So this circle and SVG. Will come here. Video. Audio. SVG. These are inline elements. That's why. We like it. So I will put it here. And then. I will put. SVG. So we are getting. To see all the elements in one line. Okay. You have seen it here. Now. What is here. That you can save SVG file separately. You can save SVG file separately. Like if I write here. That. IMG. SVG. And save the content of SVG. So if I write here. IMG. And write it. And I will write. IMG. SVG. So you guys see here. That I did not get to see this. If I write alt here. And write. My SVG. Image. So you see here. That. I got to see this. So you see here. That. My SVG image came like this. But I did not get to see SVG. Why did this happen? This happened because. Because the SVG. SVG file. In browser. I write. And. SVG file. Whenever you want to see in the browser. So you will put a declaration. I will show you. So I wrote here. SVG file not showing. So here. There is an answer to the stack overflow. Which will tell you. So you have to write this. I will show you. XML. Something like this. See. So you have to write. So you have to write. So you have to write. So you have to write. So you have to write. So you have to write. So you have to write. Just like this. You have to add this. It is called name space declaration. So. You have to add the SVG. Now you see here. This SVG. Now you see here. You see this SVG. So this thing is very important. And a lot of people. In the future, when the websites. You make your own. Then we definitely get stuck in this problem. I keep getting stuck. So I am telling you. I have already described the problem. I have already described the problem. You have not got a problem. I have also told that. It is coming. And also told you the solution. Next topic is iframes. Next topic is iframes. Iframes. you can embed the other website in your website. Like if I want to embed this webpage, I can do it by using an iframe like this. So see, I have written iframe here, and I will copy this URL, and I will paste it here, and you can see here, that this website is completely embedded here in this iframe. You definitely want to embed it in a big iframe, but if you want it to be embedded, then you can embed it like this. I will do one thing, I will increase its height a little. So width is equal to width, width is equal to, let's say, 122, height is equal to 444. Okay? So see, it came out like this. Now definitely, it was coming in this width, so it came in this line, but if I increase the width a little, let's say I increase the width to 322. Okay? So see, my website is completely embedded here. Can you see? So you can embed a website. Another use case of iframe is YouTube video. If you want to share a YouTube video and click on embed here, then it will give you an iframe code. And you can start it here in any way. If you want to start at a particular time, then you can do that here. The point at which you will start and share it, that time comes here, which I will show you. Wait. Let's say I want to start from here. Okay? Let's say the video starts from here. So what I will do is click on share. After clicking on share, I will click on embed. I will do start at 1219 and I will copy it. See, there is a copy button here. And I will put it in my code here. I will comment out the iframe. And I will put the iframe below. Okay? I will wrap the word so that you can see the code properly. So now what I will do is after pasting this, I will show you the document. See, this video is embedded here. Okay? So I hope you understood this thing. And this is all there is in media HTML. Pretty much. Miscellaneous, you will see a lot of things in every topic. But pretty much that's all about media HTML. Media HTML is just audio, video, media. This is what you will use 95% of the times. Now I will give you a quick quiz. And your quick quiz is this. Create a website which shows videos of different categories. Okay? And audios of different categories. You can use YouTube videos in an iframe using YouTube's embedding feature. So what you have to do is you have to make a website in which you will get a lot of content. Now you can use the video audio tags and YouTube's share feature. You can embed it the same way I did YouTube video. And make a very good website and show me. If you want, you can give me a GitHub comment. And if you want, you can tell me the code and explain it. But do attempt this quiz. And do write Sigma Batch OP in the comment section. Access this playlist. Like the video. Do write Sigma Batch OP. That's all for this video, guys. Thank you so much, guys, for watching this video. And I will see you next time. Outro Music"
+}

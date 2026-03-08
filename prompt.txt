@@ -1,0 +1,9 @@
+I am teaching web development in my sigma web development course.Here are video subtitle chunks containing video title,video number,start time in seconds,end time in seconds,the text at that time:
+
+[{"title":"Vide","number":"10","start":494.44,"end":499.44,"text":" Okay.  So.  This is the work of the preload attribute.  And in interviews.  This preload attribute is asked a lot."},{"title":"Your","number":"2","start":1312.44,"end":1317.44,"text":" Now, I want to tell you  where you will get  notes and cheat sheets.  If you go to  codewithari.com"},{"title":"Vide","number":"10","start":373.44,"end":378.44,"text":" Automatically played.  Our audio.  After this.  Next attribute.  That is loop."},{"title":"Vide","number":"10","start":525.44,"end":530.44,"text":" So this was about.  Audio and video tags.  Okay.  I have told you all the attributes.  And you should definitely use it."},{"title":"Your","number":"2","start":1330.44,"end":1336.44,"text":" There are all the elements here.  But in this course,  you stay,  I will tell you  about all the elements."}]
+----------------------------------
+
+"where are types of attributes taught"
+
+user asked this question related to the video chunks,you have to answer in human way(dont mention the above format,it's just for you) where and how much content is taught in which video(in which video and at what timestamp) and guide the user to go to that particular video.If user asks unrelated question,tell him that you can only answer questions relevant to the course.
+
