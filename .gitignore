@@ -1,0 +1,30 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.env.*
+
+# Generated audio and video
+*.mp3
+*.mp4
+*.wav
+
+# Generated data
+newjsons/
+embeddings.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
