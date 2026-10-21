@@ -1,95 +1,99 @@
 # RAG-Based AI Teaching Assistant
 
-An AI-powered teaching assistant that answers questions from course materials using a Retrieval Augmented Generation (RAG) pipeline.  
-This project processes lecture videos, converts them to text, stores the information in structured form, and retrieves relevant knowledge to generate answers.
+An AI-powered teaching assistant that uses Retrieval-Augmented Generation (RAG) to answer questions from course lecture materials and help students locate relevant topics in video lectures.
 
----
+## Problem Statement
 
-## Overview
-
-This project builds a simple RAG pipeline that allows users to query lecture content.  
-It processes video lectures step by step and prepares them for AI-based question answering.
-
----
+Students often spend time searching through lengthy video lectures to find specific concepts, explanations, or topics. This project aims to simplify that process by retrieving relevant lecture segments and generating contextual answers with video references and timestamps.
 
 ## Features
 
-- Convert lecture videos to audio
-- Convert audio to text using speech-to-text
-- Convert transcripts to structured JSON
-- Generate embeddings for semantic search
-- Retrieve relevant lecture content
-- Generate answers using AI models
+- Extract audio from course videos using FFmpeg.
+- Transcribe lecture audio using OpenAI Whisper.
+- Generate structured transcripts with timestamps.
+- Group transcript segments into larger chunks.
+- Generate semantic embeddings using BGE-M3.
+- Retrieve relevant lecture chunks using cosine similarity.
+- Generate contextual responses using Llama 3.2.
+- Provide relevant video numbers and timestamps in answers.
 
----
+## Architecture
 
-## Project Workflow
+1. **Video Processing:** Extract audio from lecture videos using FFmpeg.
+2. **Speech-to-Text:** Convert audio into timestamped transcript segments using Whisper.
+3. **Data Preprocessing:** Organize transcripts into structured JSON and merge consecutive segments.
+4. **Embedding Generation:** Generate vector embeddings using BGE-M3 through Ollama.
+5. **Retrieval:** Convert user queries into embeddings and retrieve the top 5 most similar chunks using cosine similarity.
+6. **Generation:** Pass retrieved context and the user's question to Llama 3.2.
+7. **Response:** Generate an answer with relevant lecture references and timestamps.
 
-1. Convert video lectures to audio files
-2. Convert audio to text using speech-to-text
-3. Store transcripts in JSON format
-4. Process and clean transcript data
-5. Generate embeddings for semantic retrieval
-6. Retrieve relevant content based on user query
-7. Generate AI-powered responses
+## Tech Stack
 
----
+- Python
+- OpenAI Whisper (speech-to-text)
+- FFmpeg (audio extraction)
+- Ollama
+- BGE-M3 (embeddings)
+- Llama 3.2 (text generation)
+- NumPy and Pandas
+- Scikit-learn
+- Joblib
+- JSON
 
 ## Project Structure
 
-```
-RAG-Based-AI-Teaching-assistant
-│
-├── audios/                # Sample audio files
-├── jsons/                 # Raw transcript JSON files
-├── newjsons/              # Processed transcript files
-│
-├── video_to_mp3.py        # Convert video lectures to audio
-├── mp3_to_json.py         # Convert audio transcripts to JSON
-├── stt.py                 # Speech-to-text processing
-├── process_incoming.py    # Process transcript data
-├── merge_chunks.py        # Combine transcript chunks
-├── preprocessed_json.py   # Data preprocessing
-│
-├── embeddings.joblib      # Stored embeddings for retrieval
-├── prompt.txt             # Prompt template for LLM
-├── output.json            # Example output
-└── README.md              # Project documentation
-```
+- `video_to_mp3.py` – Extracts audio from lecture videos.
+- `mp3_to_json.py` – Transcribes audio and generates timestamped JSON.
+- `stt.py` – Standalone speech-to-text example.
+- `merge_chunks.py` – Combines consecutive transcript segments.
+- `preprocessed_json.py` – Generates embeddings and stores them.
+- `process_incoming.py` – Performs query embedding, semantic retrieval, and answer generation.
+- `prompt.txt` – Example generated prompt.
+- `output.json` – Example transcription output.
 
----
+## Installation
 
-## Technologies Used
+1. Clone the repository.
+2. Create and activate a Python virtual environment.
+3. Install dependencies using `pip install -r requirements.txt`.
+4. Install FFmpeg separately.
+5. Install Ollama and download the required models:
 
-- Python
-- Speech-to-Text
-- Embeddings
-- Retrieval Augmented Generation (RAG)
-- JSON data processing
+   - `ollama pull bge-m3`
+   - `ollama pull llama3.2`
 
----
+6. Create the required input directories and provide course videos.
 
-## Example Use Case
+## Running the Pipeline
 
-A student can ask questions like:
+Run the scripts in this order:
 
-> "What is SEO in web development?"
+1. `python video_to_mp3.py`
+2. `python mp3_to_json.py`
+3. `python merge_chunks.py`
+4. `python preprocessed_json.py`
+5. `python process_incoming.py`
 
-The system retrieves the relevant lecture segment and generates a contextual answer.
+Ensure the expected input folders and files exist before executing each stage.
 
----
+## Limitations
+
+- Retrieval currently uses in-memory cosine similarity over stored embeddings.
+- No dedicated vector database is integrated.
+- The current query interface is command-line based.
+- Retrieval quality depends on transcript quality and chunking.
+- Answers depend on the relevance and completeness of retrieved context.
 
 ## Future Improvements
 
-- Add web interface for queries
-- Integrate vector database
-- Improve retrieval accuracy
-- Deploy as a web application
-
----
+- Build an interactive web interface.
+- Integrate a scalable vector database.
+- Improve chunking and retrieval accuracy.
+- Add similarity thresholds and evaluation metrics.
+- Add error handling and input validation.
+- Deploy the application as a web service.
 
 ## Author
 
-**Pragati Sharma**  
-B.Tech Electronics Engineering  
-Aspiring Data Scientist and AI Enthusiast
+Pragati Sharma  
+B.Tech – Electronics Engineering
